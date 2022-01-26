@@ -1,1 +1,1 @@
-# python_ko-ullu_durumlar
+# python_koşullu_durumlar
